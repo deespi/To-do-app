@@ -214,3 +214,6 @@ class TodoApp {
         const title = todoInput.value.trim();
         if (!title) {
             this.showToast('Wpisz tytuł zadania', 'warning');
+        }
+    }
+}
