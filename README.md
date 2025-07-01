@@ -2,7 +2,7 @@
 
 Nowoczesna aplikacja do zarządzania zadaniami zbudowana z wykorzystaniem JavaScript, HTML, CSS i PostgreSQL
 
-## Features
+# Features
 
 - **Dodawanie zadań
 - **Oznaczanie jako ukończone
@@ -14,15 +14,15 @@ Nowoczesna aplikacja do zarządzania zadaniami zbudowana z wykorzystaniem JavaSc
 - **Responsywny design
 - **Dark mode
 
-## Tech Stack
-# Frontend
+# Tech Stack
+## Frontend
 - **HTML5**
 - **CSS3**
 - **Vanilla JavaScript**
 - **Font Awesome**
 - **Google Fonts**
 
-# Backend
+## Backend
 
 - **Node.js**
 - **Express.js**
